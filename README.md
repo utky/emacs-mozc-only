@@ -4,6 +4,8 @@ This repository includes PKGBUILD file to build and install emacs-mozc helper fu
 
 This will be useful if you already have fcitx-mozc in your system and add Emacs plugin for mozc in ArchLinux.
 
+Original souces are in : https://aur.archlinux.org/packages/emacs-mozc/ 
+
 ## Install
 
 Fetch code
